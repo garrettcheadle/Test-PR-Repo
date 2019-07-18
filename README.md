@@ -5,6 +5,8 @@ Changes to README in order to make PR.
 
 More changes to README.
 
+Another Change to README.
+
 [![GoDoc](https://godoc.org/github.com/crhntr/httplog?status.svg)](https://godoc.org/github.com/crhntr/httplog)
 
 ## Example
